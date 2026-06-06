@@ -10,4 +10,3 @@ Favorite tools:
 VS Code (with a bunch of plugins), Figma (for mockups), GitHub (where everything goes), and ChatGPT (sometimes instead of documentation 😅).
 
 Right now I'm focused on frontend and small freelance gigs. I build projects not just to check a box for my portfolio, but to improve real skills (and occasionally bang my head against bugs).
--->
